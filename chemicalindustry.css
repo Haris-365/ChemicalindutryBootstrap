@@ -1,0 +1,33 @@
+.First {
+    width: 70px; height: 70px;
+}
+.navbar-nav .nav-item a{
+    color: #fff;
+}
+.Bike {
+    width: 250px; height: 250px;
+}
+.container {
+    padding: 20px; margin-left: 400px;
+}
+.Second {
+    height: 250px; width: 250px;
+}
+.Third {
+    height: 250px; width: 250px;
+    padding-bottom: 20px;
+}
+
+.Fourth {
+    width: 400px; height: 400px;
+}
+
+ .Fifth {
+    color: rgb(0, 21, 139);
+ }
+ .lead{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    color: rgb(46, 3, 3);
+ }
+ 
